@@ -1,0 +1,33 @@
+table {
+    border: solid 1px #808080;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table thead th {
+    background-color: #DDEFEF;
+    color: #336B6B;
+    text-align: center;
+    text-shadow: 1px 1px 1px #fff;
+    text-decoration: none;
+    border: solid 1px #808080;
+    border-width: 0.1px;
+}
+
+table tbody td {
+      color: #000000;
+      text-shadow: 1px 1px 1px #fff;
+      text-align: left;
+      border: solid 1px #808080;
+      border-width: 0.1px;
+}
+
+.tebal_dan_abu {
+    background-color: #ececec;
+    color: #ececec;
+    font-weight: bold;
+}
+
+.ukuran_font_kecil {
+    font-size: 7pt;
+}

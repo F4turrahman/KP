@@ -1,0 +1,45 @@
+h1 {
+  text-transform: uppercase;
+  color: salmon;
+}
+table {
+  border: solid 1px #DDEEEE;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 70%;
+  margin: 10px auto 10px auto;
+}
+table thead th {
+    background-color: #DDEFEF;
+    border: solid 1px #DDEEEE;
+    color: #336B6B;
+    padding: 10px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #fff;
+    text-decoration: none;
+}
+table tbody td {
+    border: solid 1px #DDEEEE;
+    color: #333;
+    padding: 10px;
+    text-shadow: 1px 1px 1px #fff;
+    text-align: center;
+}
+.kanan {
+  text-align: right;
+}
+.kiri {
+  text-align: left;
+}
+.tengah {
+  text-align: center;
+}
+.tabel {
+  min-width: 100px;
+}
+.lebar-tabel {
+  width: 100%;
+}
+.lebar-input {
+  width: 100%;
+}
